@@ -1,0 +1,183 @@
+[
+    {
+      "battle_id": 1,
+      "battle_name": "Battle of Winterfell",
+      "location": "Winterfell",
+      "date": "2019-04-28",
+      "attacker": "Night King",
+      "defender": "House Stark",
+      "outcome": "Night King victory",
+      "attacker_king": "Night King",
+      "defender_king": "Jon Snow",
+      "region": "North",
+      "battle_type": ["pitched battle"],
+      "defender_size": {
+        "average": 8000,
+        "min": 5000,
+        "max": 10000
+      }
+    },
+    {
+      "battle_id": 2,
+      "battle_name": "Battle of the Bastards",
+      "location": "Winterfell",
+      "date": "2016-06-19",
+      "attacker": "House Bolton",
+      "defender": "House Stark",
+      "outcome": "House Stark victory",
+      "attacker_king": "Ramsay Bolton",
+      "defender_king": "Jon Snow",
+      "region": "North",
+      "battle_type": ["pitched battle"],
+      "defender_size": {
+        "average": 2000,
+        "min": 1000,
+        "max": 3000
+      }
+    },
+    {
+      "battle_id": 3,
+      "battle_name": "Battle of Blackwater",
+      "location": "Blackwater Bay",
+      "date": "2012-05-27",
+      "attacker": "House Lannister",
+      "defender": "House Baratheon",
+      "outcome": "House Lannister victory",
+      "attacker_king": "Stannis Baratheon",
+      "defender_king": "Joffrey Baratheon",
+      "region": "Crownlands",
+      "battle_type": ["siege"],
+      "defender_size": {
+        "average": 5000,
+        "min": 4000,
+        "max": 6000
+      }
+    },
+    {
+      "battle_id": 4,
+      "battle_name": "Battle of the Trident",
+      "location": "Trident",
+      "date": "283-09-05",
+      "attacker": "Robert Baratheon",
+      "defender": "Rhaegar Targaryen",
+      "outcome": "Robert Baratheon victory",
+      "attacker_king": "Robert Baratheon",
+      "defender_king": "Rhaegar Targaryen",
+      "region": "Riverlands",
+      "battle_type": ["pitched battle"],
+      "defender_size": {
+        "average": 20000,
+        "min": 18000,
+        "max": 22000
+      }
+    },
+    {
+      "battle_id": 5,
+      "battle_name": "Battle of the Blackwater",
+      "location": "Blackwater Bay",
+      "date": "2012-09-02",
+      "attacker": "House Lannister",
+      "defender": "Stannis Baratheon",
+      "outcome": "House Lannister victory",
+      "attacker_king": "Tywin Lannister",
+      "defender_king": "Stannis Baratheon",
+      "region": "Crownlands",
+      "battle_type": ["siege"],
+      "defender_size": {
+        "average": 12000,
+        "min": 10000,
+        "max": 14000
+      }
+    },
+    {
+      "battle_id": 6,
+      "battle_name": "Battle of the Whispering Wood",
+      "location": "Whispering Wood",
+      "date": "298-06-01",
+      "attacker": "House Stark",
+      "defender": "House Lannister",
+      "outcome": "House Stark victory",
+      "attacker_king": "Robb Stark",
+      "defender_king": "Jaime Lannister",
+      "region": "Riverlands",
+      "battle_type": ["ambush"],
+      "defender_size": {
+        "average": 5000,
+        "min": 4000,
+        "max": 6000
+      }
+    },
+    {
+      "battle_id": 7,
+      "battle_name": "Battle of the Green Fork",
+      "location": "Green Fork",
+      "date": "298-06-01",
+      "attacker": "House Stark",
+      "defender": "House Lannister",
+      "outcome": "House Lannister victory",
+      "attacker_king": "Robb Stark",
+      "defender_king": "Tywin Lannister",
+      "region": "Riverlands",
+      "battle_type": ["pitched battle"],
+      "defender_size": {
+        "average": 10000,
+        "min": 8000,
+        "max": 12000
+      }
+    },
+    {
+      "battle_id": 8,
+      "battle_name": "Battle of Castle Black",
+      "location": "Castle Black",
+      "date": "2014-06-08",
+      "attacker": "Free Folk",
+      "defender": "Night's Watch",
+      "outcome": "Night's Watch victory",
+      "attacker_king": "Mance Rayder",
+      "defender_king": "Jon Snow",
+      "region": "North",
+      "battle_type": ["siege"],
+      "defender_size": {
+        "average": 1000,
+        "min": 800,
+        "max": 1200
+      }
+    },
+    {
+      "battle_id": 9,
+      "battle_name": "Battle of the Blackwater Rush",
+      "location": "Blackwater Rush",
+      "date": "298-09-13",
+      "attacker": "House Tyrell",
+      "defender": "Stannis Baratheon",
+      "outcome": "House Tyrell victory",
+      "attacker_king": "Mace Tyrell",
+      "defender_king": "Stannis Baratheon",
+      "region": "Crownlands",
+      "battle_type": ["naval"],
+      "defender_size": {
+        "average": 8000,
+        "min": 6000,
+        "max": 10000
+      }
+    },
+    {
+      "battle_id": 10,
+      "battle_name": "Battle of the Goldroad",
+      "location": "Goldroad",
+      "date": "298-07-24",
+      "attacker": "House Lannister",
+      "defender": "House Tyrell",
+      "outcome": "House Lannister victory",
+      "attacker_king": "Jaime Lannister",
+      "defender_king": "Mace Tyrell",
+      "region": "Reach",
+      "battle_type": ["pitched battle"],
+      "defender_size": {
+        "average": 12000,
+        "min": 10000,
+        "max": 14000
+      }
+    },
+    {
+  
